@@ -5,8 +5,9 @@ Estou tendo minha primeira aula de Git.
 Esta é outra linha que eu escrevi.
 
 Algumas linguagens que eu conheço sao: 
--Java
--C#
--Python
+- Java
+- C#
+- Ruby
+- COBOL
 
 FIM DO ARQUIVO.
